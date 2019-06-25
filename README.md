@@ -2,7 +2,7 @@
 
 From December 2017 to December 2018, we monitored the 500 most popular websites of all member states of the European Union to track privacy related changes around the enforcement date of the General Data Protection Regulation.
 
-![Overview of the pre/post GDPR comparison](https://raw.githubusercontent.com/RUB-SysSec/we-value-your-privacy/master/EU_overview.svg)
+![Overview of the pre/post GDPR comparison](https://raw.githubusercontent.com/RUB-SysSec/we-value-your-privacy/master/EU_overview.png)
 
 The results of our study are published in the paper "We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR’s Impact on Web Privacy" presented at NDSS 2019.
 In this repository you can find the raw data to our study. 
