@@ -1,12 +1,20 @@
 # Measuring the GDPR’s Impact on Web Privacy
 
 From December 2017 to December 2018, we monitored the 500 most popular websites of all member states of the European Union to track privacy related changes around the enforcement date of the General Data Protection Regulation.
+
+![Overview of the pre/post GDPR comparison](https://raw.githubusercontent.com/RUB-SysSec/we-value-your-privacy/master/EU_overview.svg)
+
 The results of our study are published in the paper "We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR’s Impact on Web Privacy" presented at NDSS 2019.
 In this repository you can find the raw data to our study. 
 
+
+
 # Paper
 
-Martin Degeling, Christine Utz, Christopher Lentzsch, Henry Hosseini, Florian Schaub, and Thorsten Holz. “We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR’s Impact on Web Privacy.” ArXiv:1808.05096 [Cs], August 15, 2018. http://arxiv.org/abs/1808.05096.
+Martin Degeling,  Christine Utz, Christopher Lentzsch, Henry Hosseini, Florian Schaub, and Thorsten Holz. “We Value Your Privacy ... Now Take Some Cookies: Measuring the GDPR’s Impact on Web Privacy.” In Proc. NDSS 2019. San Diego, CA: Internet Society, 2019. https://doi.org/10.14722/ndss.2019.23378.
+
+An updated version of the paper is available at http://arxiv.org/abs/1808.05096
+
 
 # Data
 
