@@ -1,7 +1,8 @@
+[
 	{
 		"country":"al",
 		"words": ["privatësia", "politika e të dhënave","konfidencialiteti", "politikat e privatësisë", "politikat e privatesise", "mbrojtja e të dhënave"],
-		"tlds": ["al"],
+		"tlds": ["al"]
 	},
 	{
 		"country": "at",
@@ -18,7 +19,7 @@
 	{
 		"country": "bg",
 		"words": ["условия за ползване", "поверителност", "политика за данни", "политика за бисквитки", "условия"],
-		"tlds": ["bg"],
+		"tlds": ["bg"]
 	},
 	{
 		"country": "br",
@@ -43,11 +44,11 @@
 	},{
 		"country": "cy",
 		"words": ["gizlilik", "veri i̇lkesi", "απόρρητο", "πολιτική δεδομένων"],
-		"tlds": ["cy"],
+		"tlds": ["cy"]
 	},{
 		"country": "cz",
 		"words": ["soukromí", "zásady používání dat", "zásady používání dat", "ochrana soukromí", "podmínky", "ochrana dat", "ochrana osobních údajů"],
-		"tlds": ["cz"],
+		"tlds": ["cz"]
 	},{
 		"country": "de",
 		"words": ["datenschutz", "datenrichtlinie", "privatssphäre", "datenschutzbestimmungen", "datenschutzrichtlinie"],
@@ -55,11 +56,11 @@
 	},{
 		"country": "dk",
 		"words": ["beskyttelse af personlige oplysninger", "datapolitik", "cookiepolitik", "privatlivspolitik", "personoplysninger", "regler om fortrolighed", "personlige data"],
-		"tlds": ["dk"],
+		"tlds": ["dk"]
 	},{
 		"country": "ee",
 		"words": ["privaatsus","data policy","kasutustingimused", "isikuandmete", "isikuandmete töötlemise", "küpsised", "konfidentsiaalsuse", "andmekaitsetingimused"],
-		"tlds": ["ee"],
+		"tlds": ["ee"]
 	},{
 		"country": "eg",
 		"words": ["الخصوصية", "سياسة البيانات"],
@@ -67,7 +68,7 @@
 	},{
 		"country": "es",
 		"words": ["privacidad", "política de datos", "protecció de dades", "aviso legal"],
-		"tlds": ["es"],
+		"tlds": ["es"]
 	},{
 		"country": "fi",
 		"words": ["yksityisyys", "tietokäytäntö", "tietosuojakäytäntö", "yksityisyyden suoja", "tietosuojaseloste", "rekisteriseloste", "tietosuoja", "yksityisyydensuoja"],
@@ -79,7 +80,7 @@
 	},{
 		"country": "gr",
 		"words": ["απόρρητο", "όροι και γνωστοποιήσεις", "προσωπικά δεδομένα","πολιτική απορρήτου"],
-		"tlds": ["gr"],
+		"tlds": ["gr"]
 	},{
 		"country": "hr",
 		"words": ["privatnost", "privatnosti", "pravila o upotrebi podataka", "zaštita podataka", "kolačići"],
