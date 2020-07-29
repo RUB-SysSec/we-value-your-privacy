@@ -3,181 +3,225 @@
 		"country": "al",
 		"words": ["privatësia", "politika e të dhënave", "konfidencialiteti", "politikat e privatësisë", "politikat e privatesise", "mbrojtja e të dhënave"],
 		"tlds": ["al"]
-	},{
+	},
+	{
 		"country": "at",
 		"words": ["datenschutz", "datenrichtlinie"],
 		"tlds": ["at"],
 		"GDPR": ["Datenschutz-Grundverordnung", "Datenschutzgrundverordnung", "DSGVO", "DS-GVO"]
-	},{
+	},
+	{
 		"country": "be",
 		"words": ["privacy", "gegevensbeleid", "confidentialité", "politique d’utilisation des données", "privacybeleid"],
 		"tlds": ["be"],
 		"GDPR": ["algemene verordening gegevensbescherming", "AVG"]
-	},{
+	},
+	{
 		"country": "bg",
 		"words": ["условия за ползване", "поверителност", "политика за данни", "политика за бисквитки", "условия"],
 		"tlds": ["bg"]
-	},{
+	},
+	{
 		"country": "br",
 		"words": ["privacidade", "política de dados"],
 		"tlds": ["br"]
-	},{
+	},
+	{
 		"country": "ca",
 		"words": ["privacy", "data policy", "confidentialité", "politique d’utilisation des données"],
 		"tlds": ["ca"]
-	},{
+	},
+	{
 		"country": "ch",
 		"words": ["datenschutz", "datenrichtlinie"],
 		"tlds": ["ch"]
-	},{
+	},
+	{
 		"country": "cm",
 		"words": ["privacy", "data policy", "confidentialité", "politique d’utilisation des données"],
 		"tlds": ["cm"]
-	},{
+	},
+	{
 		"country": "cn",
 		"words": ["隐私权政策", "数据使用政策", "私隱政策", "數據使用政策"],
 		"tlds": ["cn"]
-	},{
+	},
+	{
 		"country": "cy",
 		"words": ["gizlilik", "veri i̇lkesi", "απόρρητο", "πολιτική δεδομένων"],
 		"tlds": ["cy"]
-	},{
+	},
+	{
 		"country": "cz",
 		"words": ["soukromí", "soukromi", "zásady používání dat", "zásady používání dat", "ochrana soukromí", "podmínky", "ochrana dat", "ochrana udaju", "ochrana osobních údajů"],
 		"tlds": ["cz"]
-	},{
+	},
+	{
 		"country": "de",
 		"words": ["datenschutz", "datenrichtlinie", "privatssphäre", "datenschutzbestimmungen", "datenschutzrichtlinie"],
 		"tlds": ["de"]
-	},{
+	},
+	{
 		"country": "dk",
 		"words": ["beskyttelse af personlige oplysninger", "datapolitik", "cookiepolitik", "privatlivspolitik", "personoplysninger", "regler om fortrolighed", "personlige data"],
 		"tlds": ["dk"]
-	},{
+	},
+	{
 		"country": "ee",
 		"words": ["privaatsus", "data policy", "kasutustingimused", "isikuandmete", "isikuandmete töötlemise", "küpsised", "konfidentsiaalsuse", "andmekaitsetingimused"],
 		"tlds": ["ee"]
-	},{
+	},
+	{
 		"country": "eg",
 		"words": ["الخصوصية", "سياسة البيانات"],
 		"tlds": ["eg", "مصر"]
-	},{
+	},
+	{
 		"country": "es",
 		"words": ["privacidad", "política de datos", "protecció de dades", "aviso legal"],
 		"tlds": ["es"]
-	},{
+	},
+	{
 		"country": "fi",
 		"words": ["yksityisyys", "tietokäytäntö", "tietosuojakäytäntö", "yksityisyyden suoja", "tietosuojaseloste", "rekisteriseloste", "tietosuoja", "yksityisyydensuoja"],
 		"tlds": ["fi"]
-	},{
+	},
+	{
 		"country": "fr",
 		"words": ["confidentialité", "confidentialite", "politique d’utilisation des données", "mentions légales", "cgu", "cookies", "vie privée", "donnees personelles", "mentions légales", "cgv", "rgpd"],
 		"tlds": ["fr"]
-	},{
+	},
+	{
 		"country": "gr",
 		"words": ["απόρρητο", "όροι και γνωστοποιήσεις", "προσωπικά δεδομένα", "πολιτική απορρήτου"],
 		"tlds": ["gr"]
-	},{
+	},
+	{
 		"country": "hr",
 		"words": ["privatnost", "privatnosti", "pravila o upotrebi podataka", "zaštita podataka", "kolačići"],
 		"tlds": ["hr"]
-	},{
+	},
+	{
 		"country": "hu",
 		"words": ["adatvédelem", "adatkezelési", "adatvédelmi", "személyes adatok védelme"],
 		"tlds": ["hu"]
-	},{
+	},
+	{
 		"country": "ie",
 		"words": ["privacy", "data policy", "privacy policy", "cookie policy"],
 		"tlds": ["ie"]
-	},{
+	},
+	{
 		"country": "il",
 		"words": ["פרטיות", "מדיניות נתונים"],
 		"tlds": ["il"]
-	},{
+	},
+	{
 		"country": "is",
 		"words": ["persónuvernd"],
 		"tlds": ["is"]
-	},{
+	},
+	{
 		"country": "it",
 		"words": ["privacy", "normativa sui dati"],
 		"tlds": ["it"]
-	},{
+	},
+	{
 		"country": "lt",
 		"words": ["privatumas", "slapukai", "privatumo"],
 		"tlds": ["lt"]
-	},{
+	},
+	{
 		"country": "lu",
 		"words": ["confidentialité", "politique d’utilisation des données", "datenschutz", "datenrichtlinie"],
 		"tlds": ["lu"]
-	},{
+	},
+	{
 		"country": "lv",
 		"words": ["privātums", "privātuma", "sīkdatņu", "sīkdatne"],
 		"tlds": ["lv"]
-	},{
+	},
+	{
 		"country": "me",
 		"words": ["приватност", "политика о подацима", "privatnost"],
 		"tlds": ["me"]
-	},{
+	},
+	{
 		"country": "mk",
 		"words": ["приватност", "политика о подацима"],
 		"tlds": ["mk"]
-	},{
+	},
+	{
 		"country": "mt",
 		"words": ["privatezza"],
 		"tlds": ["mt"]
-	},{
+	},
+	{
 		"country": "mx",
 		"words": ["privacidad", "política de datos"],
 		"tlds": ["mx"]
-	},{
+	},
+	{
 		"country": "nl",
 		"words": ["gegevensbeleid", "privacybeleid"],
 		"tlds": ["nl"]
-	},{
+	},
+	{
 		"country": "no",
 		"words": ["personvern", "retningslinjer for data"],
 		"tlds": ["no"]
-	},{
+	},
+	{
 		"country": "pl",
 		"words": ["prywatność", "prywatnosci", "zasady dotyczące danych", "prywatności"],
 		"tlds": ["pl"]
-	},{
+	},
+	{
 		"country": "pt",
 		"words": ["privacidade", "política de dados"],
 		"tlds": ["pt"]
-	},{
+	},
+	{
 		"country": "ro",
 		"words": ["confidențialitate", "politica de utilizare", "cookie-uri", "confidentialitate", "cookie-urilor", "protecţia datelor"],
 		"tlds": ["ro"]
-	},{
+	},
+	{
 		"country": "rs",
 		"words": ["приватност", "политика о подацима"],
 		"tlds": ["rs"]
-	},{
+	},
+	{
 		"country": "ru",
 		"words": ["конфиденциальность", "политика использования данных", "политика конфиденциальности", "политика обработки персональных данных"],
 		"tlds": ["ru", "рф", ".su"]
-	},{
+	},
+	{
 		"country": "se",
 		"words": ["sekretess", "datapolicy", "personuppgifter", "webbplatsen", "integritetspolicy"],
 		"tlds": ["se"]
-	},{
+	},
+	{
 		"country": "si",
 		"words": ["zasebnost", "piškotkih", "varstvo podatkov"],
 		"tlds": ["si"]
-	},{
+	},
+	{
 		"country": "sk",
 		"words": ["ochrana súkromia", "zásady využívania údajov", "ochrana údajov", "ochrana osobných údajov", "súkromie", "piškotki", "zásady ochrany osobných", "osobné údaje", "ochrany osobných údajov"],
 		"tlds": ["sk"]
-	},{
+	},
+	{
 		"country": "tr",
 		"words": ["gizlilik", "veri i̇lkesi", "veri politikası", "kvkk", "kişisel verilerin korunması"],
 		"tlds": ["tr"]
-	},{
+	},
+	{
 		"country": "ua",
 		"words": ["конфіденційність"],
 		"tlds": ["ua"]
-	},{
+	},
+	{
 		"country": "uk",
 		"words": ["policy", "gdpr"],
 		"tlds": ["uk", "gb"]
